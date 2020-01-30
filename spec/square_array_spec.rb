@@ -1,6 +1,6 @@
     numbers = [1,2,3]
     numbers.each do |n|
-      puts "#{number}**2"
+      square_array = n**2
     end
     
   
