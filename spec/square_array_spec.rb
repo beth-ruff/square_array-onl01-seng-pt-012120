@@ -1,6 +1,6 @@
     numbers = [1,2,3]
     
-    square_array(numbers)
+    
   
 
   it 'should square the elements in an array' do
