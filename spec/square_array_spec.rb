@@ -1,5 +1,5 @@
     numbers = [1,2,3]
-    numbers.each do |number|
+    numbers.each do |n|
       puts "#{number}**2"
     end
     
