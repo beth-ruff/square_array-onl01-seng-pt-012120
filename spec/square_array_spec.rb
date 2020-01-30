@@ -3,6 +3,9 @@
       square_array = n**2
     end
     
+    square_array
+    
+    
   
 
   it 'should square the elements in an array' do
