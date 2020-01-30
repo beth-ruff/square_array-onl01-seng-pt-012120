@@ -3,6 +3,6 @@
     array.each do |n|
         numbers = n ** 2
     end
+    square_array
   end
 
-square_array
