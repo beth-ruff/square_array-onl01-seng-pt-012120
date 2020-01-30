@@ -4,6 +4,6 @@
         square_array(n**2)
     end
   end
-    
-numbers
+  
+  square_array
     
