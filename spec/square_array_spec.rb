@@ -4,3 +4,5 @@
         numbers = n ** 2
     end
   end
+
+square_array
