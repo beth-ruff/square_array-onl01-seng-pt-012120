@@ -3,5 +3,5 @@
       square_array = n**2
     end
     
-    square_array
+
     
