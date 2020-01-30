@@ -1,6 +1,5 @@
     numbers = [1,2,3]
     
-    
   
 
   it 'should square the elements in an array' do
